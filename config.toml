@@ -17,6 +17,9 @@ theme= "hugo-developer-portfolio"
   [[menu.main]]
   name = "About"
   URL = "about"
+  [[menu.main]]
+  name = "Contact"
+  URL = "contact"
 
 [params]
 home = "Home" # What you want the homepage to show up as in the menu bar
@@ -33,3 +36,5 @@ author = "Saz Adrián"
   email = "adriansazna@gmail.com"
   address = "Zaragoza, ES"
   googlemaps = "https://goo.gl/maps/3dvewu32ajiF4aKb8"
+
+  
